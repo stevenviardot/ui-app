@@ -1,3 +1,18 @@
-.header {
-  background-color: blue;
+.navbar {
+  background-color: #ecdcdc;
+  padding: 25px 20px;
+}
+
+.navbar-right {
+  float: right;
+}
+
+.nav-list {
+  list-style-type: none;
+  }
+
+.nav-list li {
+  display: inline;
+  padding: 0px 10px;
+  color: black;
 }
