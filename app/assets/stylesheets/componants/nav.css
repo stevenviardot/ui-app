@@ -1,8 +1,10 @@
 .navbar {
   background-color: #ecdcdc;
-  padding: 25px 20px;
+  padding: 25px 20px;  
 }
-
+.navbar-logo {
+  display: inline-block;
+}
 .navbar-right {
   float: right;
 }
@@ -15,4 +17,5 @@
   display: inline;
   padding: 0px 10px;
   color: black;
+  font-size: 18px;
 }

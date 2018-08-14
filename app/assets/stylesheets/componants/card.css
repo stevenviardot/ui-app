@@ -1,0 +1,5 @@
+.card {
+  background-image: url('bg.jpg');
+  background: linear-gradient(135deg, rgba(255,0,0,1) 0%, rgba(0,0,255,1), 50%);
+  background-size: cover;
+}
